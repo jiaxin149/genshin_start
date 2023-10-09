@@ -45,7 +45,34 @@
                 </div>
             </div>
         </main>
-        
+        <div id="footer">
+            <img id="herta-card" loading="lazy" src="static/img/card_en.jpg" class="img-autocdn" alt="" />
+            <div id="footer-text">
+                <div class="mdui-list"><a href="javascript:void(0);" class="mdui-list-item mdui-ripple"
+                        id="show-credits-opt">
+                        <i class="mdui-icon mdui-list-item-icon ion-md-people mdui-text-color-black-icon"></i>
+                        <div class="mdui-list-item-content footer-icon-text about-link" id="show-credits-text">
+                            Show Credits
+                        </div>
+                    </a>
+                    <a href="javascript:void(0);" class="mdui-list-item mdui-ripple" id="show-options-opt">
+                        <i class="mdui-icon mdui-list-item-icon material-icons mdui-text-color-black-icon">settings</i>
+                        <div class="mdui-list-item-content footer-icon-text about-link" id="show-options-text">
+                            Options
+                        </div>
+                    </a>
+                    <a href="https://github.com/duiqt/herta.kuru" target="_blank" class="mdui-list-item mdui-ripple">
+                        <i class="mdui-icon mdui-list-item-icon ion-logo-github mdui-text-color-black-icon"></i>
+                        <div class="mdui-list-item-content footer-icon-text about-link"><span
+                                id="repository-desc">GitHub Repo</span> - duiqt/herta_kuru
+                        </div>
+                    </a>
+                </div>
+                <div class="mdui-typo">
+                    <div id="access-via-tip-parent"></div>
+                </div>
+            </div>
+        </div>
     </div>
     <script src="https://cdn.bootcdn.net/ajax/libs/mdui/1.0.2/js/mdui.min.js"></script>
     <script src="static/js/script.js" async></script>
