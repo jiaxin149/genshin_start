@@ -1,4 +1,8 @@
-﻿## Warning
+# 原神，启动！
+
+([点击立即 原神，启动！](https://page.jaxing.cc/genshin_start/))
+ 
+ ## Warning
 The counter has paused, awaiting additional remediation measures, as a result of the excessive traffic and malicious flood of requests.
 
 <div align="center"><img src="static/img/hertaa_github.gif"></div>
